@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDhBU4eLQ7A2b1ERHECuGagqWAeV7mXSrqNubPWX73M8QFhiGp9QCWoUohLnmHYHHQUmd5ZJZHtBWihHrG6aSA==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Fiery Restaurant\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karan\\.nuget\\packages\\nlog\\5.1.1\\nlog.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
